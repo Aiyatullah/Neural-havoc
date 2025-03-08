@@ -1,0 +1,7 @@
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+pip install opencv-python
+pip install SpeechRecognition
+pip install pyttsx3
+pip install git+https://github.com/ultralytics/yolov5.git
+pip install opencv-python mediapipe
+pip install opencv-python mediapipe pyautogui
